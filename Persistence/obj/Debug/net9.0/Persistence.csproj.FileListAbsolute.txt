@@ -1,0 +1,15 @@
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/bin/Debug/net9.0/Persistence.deps.json
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/bin/Debug/net9.0/Persistence.runtimeconfig.json
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/bin/Debug/net9.0/Persistence.dll
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/bin/Debug/net9.0/Persistence.pdb
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/obj/Debug/net9.0/Persistence.csproj.AssemblyReference.cache
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/obj/Debug/net9.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfoInputs.cache
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfo.cs
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/obj/Debug/net9.0/Persistence.csproj.CoreCompileInputs.cache
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/obj/Debug/net9.0/Persistence.dll
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/obj/Debug/net9.0/refint/Persistence.dll
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/obj/Debug/net9.0/Persistence.pdb
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/obj/Debug/net9.0/Persistence.genruntimeconfig.cache
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Persistence/obj/Debug/net9.0/ref/Persistence.dll

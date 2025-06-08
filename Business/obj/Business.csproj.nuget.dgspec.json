@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Presentation/Presentation.csproj": {}
+    "/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/Business.csproj": {}
   },
   "projects": {
     "/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/Business.csproj": {
@@ -142,79 +142,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Presentation/Presentation.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Presentation/Presentation.csproj",
-        "projectName": "Presentation",
-        "projectPath": "/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Presentation/Presentation.csproj",
-        "packagesPath": "/Volumes/T7/.nuget/packages/",
-        "outputPath": "/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Presentation/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Volumes/T7/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net9.0"
-        ],
-        "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
-            "projectReferences": {
-              "/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/Business.csproj": {
-                "projectPath": "/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/Business.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
-      },
-      "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
