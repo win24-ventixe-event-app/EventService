@@ -2,14 +2,20 @@
 using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore;
 using Persistence.Contexts;
+using Persistence.Interfaces;
 using Persistence.Models;
 
 namespace Persistence.Repositories;
 
-public abstract class BaseRepository<TEntity>(DataContext context) where TEntity : class
+public abstract class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : class 
 {
-    protected readonly DataContext _context = context;
-    protected readonly DbSet<TEntity> _dbSet = context.Set<TEntity>();
+    protected readonly DataContext _context;
+    protected readonly DbSet<TEntity> _dbSet;
+    protected BaseRepository(DataContext context)
+    {
+        _context = context;
+        _dbSet = _context.Set<TEntity>();
+    }
 
     public virtual async Task<RepositoryResult> AddAsync(TEntity entity)
     {
@@ -35,7 +41,7 @@ public abstract class BaseRepository<TEntity>(DataContext context) where TEntity
 
         }
     }
-    public virtual async Task<RepositoryResult<IEnumerable<TEntity>>> GetAllAsync(TEntity entity)
+    public virtual async Task<RepositoryResult<IEnumerable<TEntity>>> GetAllAsync()
     {
         try
         {
@@ -155,4 +161,6 @@ public abstract class BaseRepository<TEntity>(DataContext context) where TEntity
             };
         }
     }
+
 }
+

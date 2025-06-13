@@ -8,7 +8,7 @@ public class PackageEntity
 {
   [Key]
   public int Id { get; set; }
-  public string Name { get; set; } = null!;
+  public string? Name { get; set; }
 
   public string? Placement { get; set; }
   public string? SeatingInformation { get; set; }
