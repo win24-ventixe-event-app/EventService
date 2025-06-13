@@ -51,7 +51,7 @@ public class EventService(IEventRepository eventRepository) : IEventService
         }
     }
 
-    public async Task<EventResult<IEnumerable<EventModel>>> GetEventsAsync()
+    public async Task<EventResult<IEnumerable<EventModel>>> GetEventAsync()
     {
         var result = await _eventRepository.GetAllAsync();
         var events = result.Result?.Select(x => new EventModel
@@ -72,7 +72,7 @@ public class EventService(IEventRepository eventRepository) : IEventService
 
     }
 
-    public async Task<EventResult<EventModel?>> GetEventsAsync(string eventId)
+    public async Task<EventResult<EventModel?>> GetEventAsync(string eventId)
     {
         var result = await _eventRepository.GetAsync(x => x.Id == eventId);
         if (result.Success && result.Result != null)
@@ -106,5 +106,10 @@ public class EventService(IEventRepository eventRepository) : IEventService
             };
         }
 
+    }
+
+    public Task<EventResult<IEnumerable<EventModel>>> GetEventsAsync()
+    {
+        throw new NotImplementedException();
     }
 }
