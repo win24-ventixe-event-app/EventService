@@ -1,8 +1,9 @@
-using System;
+
+using Business.Interfaces;
 
 namespace Business.Services;
 
-public class EventService
+public class EventService : IEventService
 {
-
+   
 }
