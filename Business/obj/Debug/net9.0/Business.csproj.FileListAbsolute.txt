@@ -1,0 +1,16 @@
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/bin/Debug/net9.0/Business.deps.json
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/bin/Debug/net9.0/Business.dll
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/bin/Debug/net9.0/Business.pdb
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/bin/Debug/net9.0/Persistence.dll
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/bin/Debug/net9.0/Persistence.pdb
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/obj/Debug/net9.0/Business.csproj.AssemblyReference.cache
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/obj/Debug/net9.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/obj/Debug/net9.0/Business.AssemblyInfoInputs.cache
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/obj/Debug/net9.0/Business.AssemblyInfo.cs
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/obj/Debug/net9.0/Business.csproj.CoreCompileInputs.cache
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/obj/Debug/net9.0/Business.sourcelink.json
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/obj/Debug/net9.0/Business.csproj.Up2Date
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/obj/Debug/net9.0/Business.dll
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/obj/Debug/net9.0/refint/Business.dll
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/obj/Debug/net9.0/Business.pdb
+/Volumes/T7/Workspace/NETProjects/microservices/Assignment/Ventixe-Event-App/Backends/EventService/Business/obj/Debug/net9.0/ref/Business.dll
