@@ -13,7 +13,7 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<DataContext>(x => x.UseSqlServer(@"Server=localhost,1433;Database=EventManagementDB;User Id=sa;Password=CodeGuruOzzy2025!?;TrustServerCertificate=True"));
+builder.Services.AddDbContext<DataContext>(x => x.UseSqlServer(@"Server=localhost,1433;Database=event-database;User Id=sa;Password=CodeGuruOzzy2025!?;TrustServerCertificate=True"));
 builder.Services.AddScoped<IEventService, EventService>();
 builder.Services.AddScoped<IEventRepository, EventRepository>();
 var app = builder.Build();

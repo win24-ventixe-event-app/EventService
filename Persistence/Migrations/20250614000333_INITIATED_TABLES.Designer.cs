@@ -12,7 +12,7 @@ using Persistence.Contexts;
 namespace Persistence.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20250608202432_INITIATED_TABLES")]
+    [Migration("20250614000333_INITIATED_TABLES")]
     partial class INITIATED_TABLES
     {
         /// <inheritdoc />
@@ -83,7 +83,6 @@ namespace Persistence.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Placement")
